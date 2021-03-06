@@ -1,0 +1,33 @@
+h2 {
+    text-align: left;
+    color: lightcoral;
+}
+.flexbox-container {
+    display: left;
+    justify-content: left;
+    align-items: left;
+    align-content: left;
+    padding-left: 30px;
+}
+
+button {
+    padding: 20px;
+    margin: 20px;
+    color: lightcoral;
+}
+
+body {
+    background-color: lightblue;
+}
+
+form {
+    text-align: left;
+}
+
+img {
+    position: center;
+    size: 20px;
+}
+
+
+
